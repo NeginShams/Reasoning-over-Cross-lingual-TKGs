@@ -1,0 +1,25 @@
+id	relation	label_en
+0	P102	member of political party
+1	P108	employer
+2	P131	located in administrative entity
+3	P1346	winner
+4	P1376	capital of
+5	P1411	nominated for
+6	P1435	heritage designation
+7	P150	contains administrative territorial entity
+8	P166	award received
+9	P17	country
+10	P190	twinned administrative body
+11	P26	spouse
+12	P27	country of citizenship
+13	P2962	title of chess person
+14	P31	instance of
+15	P39	position held
+16	P463	member of
+17	P512	academic degree
+18	P54	member of sports team
+19	P551	residence
+20	P579	IPC sports discipline code
+21	P6	head of government
+22	P69	educated at
+23	P793	significant event

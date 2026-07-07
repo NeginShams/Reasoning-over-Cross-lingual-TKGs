@@ -1,0 +1,5 @@
+pair	kg_a_entities	kg_b_entities	kg_a_quads	kg_b_quads	alignment_pairs	relations
+en-fr	12502	11940	40446	38345	11922	24
+en-fa	12502	6409	40446	20165	6389	24
+en-zh	12502	9201	40446	27340	9170	24
+en-ja	12502	8351	40446	25789	8317	24
